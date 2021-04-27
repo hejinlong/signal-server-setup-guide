@@ -1,7 +1,7 @@
 # signal-server-setup-guide
 ## 安装环境
 
-- Os version:Ubuntu 20.04
+- Ubuntu 20.04
 - Apache Maven 3.6.3
 - Java 11.0.10
 - Signal-Server 3.21
